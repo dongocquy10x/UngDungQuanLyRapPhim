@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="MySql.Data.EntityFramework" Version="8.0.20" />
+    <PackageReference Include="Oracle.ManagedDataAccess.EntityFramework" Version="19.7.0" />
   </ItemGroup>
 
   <ItemGroup>
