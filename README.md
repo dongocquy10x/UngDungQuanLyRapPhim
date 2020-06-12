@@ -1,6 +1,6 @@
 # Ứng dụng Quản lý rạp chiếu phim
 
-Đồ án môn học Nhập môn Công nghệ phần mềm.
+## Đồ án môn học Nhập môn Công nghệ phần mềm.
 
   Ứng dụng quản lý rạp chiếu phim giúp các doanh nghiệp tổ chức kinh doanh mô hình rạp chiếu phim có thể
 dễ dàng quản lý phần lớn các hoạt động hàng ngày tại rạp như: quản lý thông tin nhân viên, khácch hàng,
