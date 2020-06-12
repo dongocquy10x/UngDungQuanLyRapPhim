@@ -11,8 +11,12 @@ doanh thu bán hàng, bán vé.
   - Cài đặt trên môi trường Windows có sẵn .NET 3.5. Linux hoặc Mac OS hiện chưa được hỗ trợ.
   -
 Cài đặt:
-  -
+  - Chạy file setup.exe để cài đặt chương trình
+
+Framework sử dụng:
+  - MaterialDesign
+  
 Phản hồi về ứng dụng:
   - Mọi thắc mắc, lỗi phát sinh trong quá trình sử dụng ứng dụng vui lòng liên hệ với chúng tôi qua mail
-  abcxyz@gmail.com hoặc số điện thoại: 0976575757
+  phamtrung@gmail.com hoặc số điện thoại: 0976789789
     
